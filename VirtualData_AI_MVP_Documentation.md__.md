@@ -779,7 +779,7 @@ The SQLite layer provides a lightweight simulation of a governed data-virtualiza
 ## Team
 
 **Team Name:** VirtualData AI  
-**Tapan Kumar Mohapatra**  
-**R Subith**
+**Tapan Kumar Mohapatra(2025MB26161)**  
+**R Subith(2025MB26120)**
 
 **Working Title:** Enterprise Chatbot on Top of a Data Virtualization Layer
